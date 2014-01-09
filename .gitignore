@@ -25,3 +25,4 @@ public/paperclip/*
 public/uploads/*
 bin/*
 test/fixtures/act_exporter_output.csv
+*.sqlite
