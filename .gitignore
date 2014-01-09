@@ -1,0 +1,27 @@
+# public/javascripts/cache/*/*.js
+*.log
+*.orig
+*.swo
+*.swp
+*~
+.bundle
+.DS_Store
+.env
+.sass-cache
+coverage/*
+jsapp
+log/*.log
+public/source
+public/source/*
+public/source/**/*
+scratch.*
+tmp/*
+config/database.yml
+*.tmproj
+public/system
+public/system/*
+public/assets/*
+public/paperclip/*
+public/uploads/*
+bin/*
+test/fixtures/act_exporter_output.csv
